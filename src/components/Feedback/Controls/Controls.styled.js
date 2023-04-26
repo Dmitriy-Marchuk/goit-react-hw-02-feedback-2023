@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const StyledButton = styled.button`
   padding: 10px;
   width: calc(100% / 3);
-  font-size: 30px;
+  font-size: 20px;
   background-color: skyblue;
   :hover {
     background-color: lightcoral;
